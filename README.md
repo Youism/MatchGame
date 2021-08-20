@@ -21,7 +21,7 @@
 
 
 
-![alt picture](resource\image.png)
+![alt picture](./resource/image.png)
 
 
 
