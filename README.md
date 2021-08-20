@@ -21,7 +21,7 @@
 
 
 
-![alt picture](./resource/image.png)
+<img src="./images/image.png" alt="alt picture" style="zoom:80%;" />
 
 
 
