@@ -21,9 +21,9 @@
 
 
 
-<img src="https://github.com/Youism/MatchGame/blob/main/images/image.png">
 
 
 
 
+<img src="./images/image.png" style="zoom:80%;" />
 
